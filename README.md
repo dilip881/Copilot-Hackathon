@@ -2,8 +2,7 @@
 
 The Weather Forecast CLI is a command-line tool that allows you to fetch and display the current weather forecast for a specified city. It leverages the OpenWeatherMap API to retrieve weather data and provides a convenient way to access weather information directly from your terminal.
 
-**Features**
-/n
+**Features** : 
 Fetches and displays the current temperature and weather description for a given city.
 Leverages the OpenWeatherMap API for accurate and up-to-date weather data.
 Supports various cities worldwide, allowing you to check the weather anywhere.
