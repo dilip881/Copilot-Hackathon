@@ -7,12 +7,12 @@ Fetches and displays the current temperature and weather description for a given
 Leverages the OpenWeatherMap API for accurate and up-to-date weather data.
 Supports various cities worldwide, allowing you to check the weather anywhere.
 
-**Installation**
+**Installation** : 
 Clone the repository or download the source code.
 Install the required dependencies by running the command: **pip install -r requirements.txt**.
 Usage
 
-**To use the Weather Forecast CLI, follow these steps:**
+**To use the Weather Forecast CLI, follow these steps: **
 Obtain an API key from OpenWeatherMap by signing up on their website (https://openweathermap.org/) and generating a free API key.
 Replace the placeholder "**YOUR_API_KEY**" in the code with your actual OpenWeatherMap API key.
 Open a terminal and navigate to the project directory.
